@@ -2,6 +2,8 @@
 
 This README provides the key part of the constitution defined for the UCT CryptoSoc. The rest of the constitution contains the ubiquitous sections defined by the University of Cape Town for all societies.
 
+For the full constitution, please [see the wiki](https://github.com/CryptoSoc/CryptoSoc-Constitution/wiki)
+
 ### Contents: 
 
 [Intro](#the-cryptocurrency-and-artificial-intelligence-society)<br>
