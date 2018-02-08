@@ -11,11 +11,20 @@ This README provides the key part of the constitution defined for the UCT Crypto
 
 # The Cryptocurrency and Artificial Intelligence Society
 
-The purpose of this society is to raise awareness and educate people about the new opportunities and potential of specific advanced technologies, such as artificial intelligence, cryptocurrency and blockchain. Moreover, the aim of the society is not to purely focus on the technical aspects and challenges of such technology but rather wishes to incorporate other fields into this technology. Economics, healthcare, art and many other fields can be influenced by these topics in a profound way. Leaving anybody behind because traditional leaders are too focused on the technical aspects is exclusionary and unfair. We are promoting open access to advanced technologies from around the world and encourage collaboration between creators, designers and dreamers. 
+The purpose of this society is to raise awareness and educate people about the new opportunities and potential of specific advanced technologies: artificial intelligence, cryptocurrency and blockchain. Moreover, the aim of the society is not to purely focus on the technical aspects and challenges of such technology but rather wishes to incorporate other fields into this technology. Economics, healthcare, art and many other fields can be influenced by these topics in a profound way. Leaving anybody behind because traditional leaders are too focused on the technical aspects is exclusionary and unfair. We are promoting open access to advanced technologies from around the world and encourage collaboration between creators, designers and dreamers. 
+
+
+Specifically, we aim to educate our members about:
+-	Technical implementations of these technologies.
+-	Philosophical prospects of decentralized networks and artificial intelligence.
+-	Specific applications to various fields, such as healthcare, finance, computing, and more.
+-	Innovation in these spaces.
+-	Future opportunities, such as projects and careers.
 
 The society, as an academic interest society, will expose students and staff to a rapidly evolving world of technology. Currently we are at the beginning of a new era. Similar to the information age, there is massive promise in distributing knowledge to innovate in tech fields.
  
 We promote openness and transparency, efficiency, personal privacy and innovation.
+
 
 ## Q&A
  
