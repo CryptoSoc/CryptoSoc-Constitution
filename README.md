@@ -4,11 +4,9 @@ This README provides the key part of the constitution defined for the UCT Crypto
 
 ### Contents: 
 
-[Intro](#the-cryptocurrency-and-artificial-intelligence-society)
-
-[Question and Answer](#q&a)
-
-[Potential Benefits and Education Opportunities](#potential-benefits-and-education-opportunities)
+[Intro](#the-cryptocurrency-and-artificial-intelligence-society)<br>
+[Question and Answer](#qa)<br>
+[Potential Benefits and Education Opportunities](#potential-benefits-and-education-opportunities)<br>
 
 
 # The Cryptocurrency and Artificial Intelligence Society
